@@ -1,0 +1,1 @@
+{"name":"Local: minmax","url":"f:\\Complete C++\\2D arrays\\minmax.cpp","tests":[{"id":1630998791393,"input":"7 69 2 221 8974","output":"299 9271"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\2D arrays\\minmax.cpp","group":"local","local":true}

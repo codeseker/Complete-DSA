@@ -1,0 +1,1 @@
+{"name":"Local: getbit","url":"f:\\Complete C++\\Bits Manipulation\\getbit.cpp","tests":[{"id":1630081258691,"input":"5\n1","output":"Bit is zero"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\Bits Manipulation\\getbit.cpp","group":"local","local":true}

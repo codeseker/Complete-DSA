@@ -1,0 +1,1 @@
+{"name":"Local: divisiblesumarray","url":"f:\\Complete C++\\30 Days coding challenge\\divisiblesumarray.cpp","tests":[{"id":1631174814482,"input":"6 3            \n1 3 2 6 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\30 Days coding challenge\\divisiblesumarray.cpp","group":"local","local":true}

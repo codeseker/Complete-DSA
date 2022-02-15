@@ -1,0 +1,1 @@
+{"name":"Local: sales","url":"f:\\Complete C++\\30 Days coding challenge\\sales.cpp","tests":[{"id":1631275605339,"input":"20\n4 5 5 5 6 6 4 1 4 4 3 6 6 3 6 1 4 5 5 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\30 Days coding challenge\\sales.cpp","group":"local","local":true}

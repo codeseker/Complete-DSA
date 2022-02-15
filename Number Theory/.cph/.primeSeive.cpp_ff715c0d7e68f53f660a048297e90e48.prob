@@ -1,0 +1,1 @@
+{"name":"Local: primeSeive","url":"f:\\Complete C++\\Number Theory\\primeSeive.cpp","tests":[{"id":1630826715275,"input":"10","output":"2 3 5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\Number Theory\\primeSeive.cpp","group":"local","local":true}

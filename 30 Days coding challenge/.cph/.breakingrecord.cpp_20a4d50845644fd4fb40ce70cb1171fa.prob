@@ -1,0 +1,1 @@
+{"name":"Local: breakingrecord","url":"f:\\Complete C++\\30 Days coding challenge\\breakingrecord.cpp","tests":[{"id":1631114834875,"input":"9\n10 5 20 20 4 5 2 25 1","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\30 Days coding challenge\\breakingrecord.cpp","group":"local","local":true}

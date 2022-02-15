@@ -1,0 +1,1 @@
+{"name":"Local: palinfrone","url":"f:\\Complete C++\\palinfrone.cpp","tests":[{"id":1630825538184,"input":"125","output":"Number is not Palindrome"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\palinfrone.cpp","group":"local","local":true}

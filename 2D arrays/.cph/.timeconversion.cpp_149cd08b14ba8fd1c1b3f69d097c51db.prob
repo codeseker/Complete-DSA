@@ -1,0 +1,1 @@
+{"name":"Local: timeconversion","url":"f:\\Complete C++\\2D arrays\\timeconversion.cpp","tests":[{"id":1631022854797,"input":"07:05:45PM","output":"19:05:45"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Complete C++\\2D arrays\\timeconversion.cpp","group":"local","local":true}
